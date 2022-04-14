@@ -1,3 +1,9 @@
+# This is for pretest 
+
+technology 
+- react + typescript 
+- react boostrap
+
 # Getting Started By 
 
 step 1 : yarn 
